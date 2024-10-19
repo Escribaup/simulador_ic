@@ -45,10 +45,10 @@ git add .
 git commit -m "Initial commit"
 
 # Adiciona o repositório remoto. Substitua o URL abaixo pelo URL do seu novo repositório no GitHub
-git remote add origin https://github.com/Escribaup/meitor.git
+git remote add origin https://github.com/Escribaup/simulador_ic.git
 
 # Faz o primeiro push e configura a branch remota como upstream para sua branch local
-git push -u origin master
+git push -u origin main
 
 # Configuração de ambiente
 # Se você está usando uma IDE (como VSCode, PyCharm, etc.), certifique-se de que a IDE está configurada para usar o interpretador Python do ambiente virtual do Poetry. 
